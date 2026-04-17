@@ -1,11 +1,11 @@
 # Responsible AI Policy — NorthPoint Financial Services
-**Document Type:** Corporate Policy
-**Classification:** Internal — All Staff
-**Version:** 1.0
-**Effective Date:** Q2 2025
-**Policy Owner:** Chief Risk Officer
-**Review Cycle:** Annual
-**Status:** ✅ Approved — AI Governance Committee
+**Document Type:** Corporate Policy  
+**Classification:** Internal — All Staff  
+**Version:** 1.0  
+**Effective Date:** Q2 2025  
+**Policy Owner:** Chief Risk Officer  
+**Review Cycle:** Annual  
+**Status:** ✅ Approved — AI Governance Committee  
 
 ---
 
