@@ -1,10 +1,10 @@
 # AI Use Case Review and Approval Process — NorthPoint Financial Services
-**Document Type:** Process Documentation
-**Classification:** Internal — All Staff
-**Version:** 1.0
-**Effective Date:** Q2 2025
-**Owner:** AI Governance Programme Office
-**Status:** ✅ Approved — AI Governance Committee
+**Document Type:** Process Documentation  
+**Classification:** Internal — All Staff  
+**Version:** 1.0  
+**Effective Date:** Q2 2025  
+**Owner:** AI Governance Programme Office  
+**Status:** ✅ Approved — AI Governance Committee  
 
 ---
 
