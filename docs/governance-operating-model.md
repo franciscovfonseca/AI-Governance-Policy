@@ -1,10 +1,10 @@
 # AI Governance Operating Model — NorthPoint Financial Services
-**Document Type:** Governance Framework
-**Classification:** Internal — Restricted
-**Version:** 1.0
-**Effective Date:** Q2 2025
-**Owner:** Chief Risk Officer
-**Status:** ✅ Approved — Board Risk and Audit Committee
+**Document Type:** Governance Framework  
+**Classification:** Internal — Restricted  
+**Version:** 1.0  
+**Effective Date:** Q2 2025  
+**Owner:** Chief Risk Officer  
+**Status:** ✅ Approved — Board Risk and Audit Committee  
 
 ---
 
