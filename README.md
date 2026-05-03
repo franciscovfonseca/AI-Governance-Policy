@@ -9,7 +9,7 @@ Icons representing governance, policy documents and compliance on both sides.
 Modern, corporate, minimal. No people. Color accents: bright electric blue and white.
 High contrast - text must be clearly readable."
 -->
-<img src="docs/banner.png" alt="Responsible AI Policy and Governance Framework - NorthPoint Financial Services" width="100%"/>
+<img src="docs/banner-Responsible-AI-Policy.png" alt="Responsible AI Policy and Governance Framework - NorthPoint Financial Services" width="100%"/>
 
 # 📋 Responsible AI Policy and Governance Framework
 
