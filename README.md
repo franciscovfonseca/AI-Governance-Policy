@@ -180,25 +180,9 @@ Phase 2 identified seven compliance gaps across NP-001 and NP-002. This plan tra
 | Phase 1 | [AI System Inventory and Classification Engine](https://github.com/franciscovfonseca/AI-System-Inventory) | ✅ Complete |
 | Phase 2 | [AI Risk Assessment](https://github.com/franciscovfonseca/AI-Risk-Assessment) | ✅ Complete |
 | Phase 3 | Responsible AI Policy and Governance Framework *(this project)* | ✅ Complete |
-| Phase 4 | AI Audit and Compliance Monitoring | 🔄 Coming Soon |
 
 ---
 
-## 📁 Repository Structure
-
-```
-AI-Governance-Policy/
-├── README.md                            ← You are here
-├── docs/
-│   ├── banner.png                       ← Project banner
-│   ├── responsible-ai-policy.md         ← Formal policy - five principles and lifecycle obligations
-│   ├── governance-operating-model.md    ← Five-tier accountability structure and decision authority
-│   ├── ai-review-process.md             ← Use case submission and approval workflow
-│   └── controls-implementation-plan.md  ← Phase 2 gap remediation with owners and timelines
-└── LICENSE
-```
-
----
 
 ## 🧠 Skills Demonstrated
 
