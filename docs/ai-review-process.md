@@ -1,10 +1,10 @@
-# AI Use Case Review and Approval Process — NorthPoint Financial Services
+# AI Use Case Review and Approval Process - NorthPoint Financial Services
 **Document Type:** Process Documentation  
-**Classification:** Internal — All Staff  
+**Classification:** Internal - All Staff  
 **Version:** 1.0  
-**Effective Date:** Q2 2025  
+**Effective Date:** Q2 2026  
 **Owner:** AI Governance Programme Office  
-**Status:** ✅ Approved — AI Governance Committee  
+**Status:** ✅ Approved - AI Governance Committee  
 
 ---
 
@@ -51,7 +51,7 @@ Material changes to a deployed system restart the process from Stage 1.
 
 ---
 
-## Stage 1 — Submission
+## Stage 1 - Submission
 
 **Who submits:** The System Owner - or a nominated representative at Head of Function level or above.
 
@@ -73,7 +73,7 @@ Material changes to a deployed system restart the process from Stage 1.
 
 ---
 
-## Stage 2 — Intake Triage
+## Stage 2 - Intake Triage
 
 **Performed by:** AI Governance Programme Office
 
@@ -92,7 +92,7 @@ Material changes to a deployed system restart the process from Stage 1.
 
 ---
 
-## Stage 3a — Standard Review (MINIMAL and LIMITED RISK)
+## Stage 3a - Standard Review (MINIMAL and LIMITED RISK)
 
 **Timeline:** 2 weeks from triage completion
 
@@ -113,7 +113,7 @@ Material changes to a deployed system restart the process from Stage 1.
 
 ---
 
-## Stage 3b — Enhanced Review (HIGH RISK)
+## Stage 3b - Enhanced Review (HIGH RISK)
 
 **Timeline:** 4-6 weeks from triage completion
 
@@ -146,7 +146,7 @@ Material changes to a deployed system restart the process from Stage 1.
 
 ---
 
-## Stage 4 — Approval Decision
+## Stage 4 - Approval Decision
 
 **Standard Review:** AGPO issues written approval or rejection. No committee meeting required.
 
@@ -163,7 +163,7 @@ Material changes to a deployed system restart the process from Stage 1.
 
 ---
 
-## Stage 5 — Registration and Deployment
+## Stage 5 - Registration and Deployment
 
 **Following approval:**
 
@@ -184,7 +184,7 @@ Material changes to a deployed system restart the process from Stage 1.
 
 ---
 
-## Stage 6 — Ongoing Monitoring and Review
+## Stage 6 - Ongoing Monitoring and Review
 
 Deployment is not the end of governance - it is the beginning of ongoing accountability.
 
