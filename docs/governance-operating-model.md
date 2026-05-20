@@ -1,10 +1,10 @@
-# AI Governance Operating Model — NorthPoint Financial Services
+# AI Governance Operating Model - NorthPoint Financial Services
 **Document Type:** Governance Framework  
-**Classification:** Internal — Restricted  
+**Classification:** Internal - Restricted  
 **Version:** 1.0  
-**Effective Date:** Q2 2025  
+**Effective Date:** Q2 2026  
 **Owner:** Chief Risk Officer  
-**Status:** ✅ Approved — Board Risk and Audit Committee  
+**Status:** ✅ Approved - Board Risk and Audit Committee  
 
 ---
 
@@ -36,7 +36,7 @@ Functional AI Champions (x8)
 
 ---
 
-## Tier 1 — Board Risk and Audit Committee
+## Tier 1 - Board Risk and Audit Committee
 
 **Role:** Strategic oversight and ultimate accountability for AI governance
 
@@ -53,7 +53,7 @@ Functional AI Champions (x8)
 
 ---
 
-## Tier 2 — Chief Risk Officer
+## Tier 2 - Chief Risk Officer
 
 **Role:** Executive sponsor and policy owner
 
@@ -68,7 +68,7 @@ Functional AI Champions (x8)
 
 ---
 
-## Tier 3 — AI Governance Committee
+## Tier 3 - AI Governance Committee
 
 **Role:** Primary decision-making body for AI governance across NorthPoint
 
@@ -98,7 +98,7 @@ Functional AI Champions (x8)
 
 ---
 
-## Tier 4 — AI Governance Programme Office
+## Tier 4 - AI Governance Programme Office
 
 **Role:** Operational backbone of the AI governance programme
 
@@ -133,11 +133,11 @@ Functional AI Champions (x8)
 
 ---
 
-## Tier 5a — Functional AI Champions
+## Tier 5a - Functional AI Champions
 
 **Role:** Embedded governance contacts within each business unit
 
-**Coverage:** Eight business units - Credit, Financial Crime, Customer Operations, Marketing, Technology, Risk, Legal and Compliance, and HR
+**Coverage:** Eight business units - Credit, Financial Crime, Customer Operations, Marketing, Technology, Risk, Legal and Compliance and HR
 
 **Responsibilities:**
 - Serve as the first point of contact for colleagues with AI governance questions
@@ -152,7 +152,7 @@ Functional AI Champions (x8)
 
 ---
 
-## Tier 5b — System Owners
+## Tier 5b - System Owners
 
 **Role:** Day-to-day accountability for individual AI system compliance
 
