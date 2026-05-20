@@ -1,10 +1,10 @@
-# Controls Implementation Plan — Phase 2 Gap Remediation
+# Controls Implementation Plan - Phase 2 Gap Remediation
 **Document Type:** Controls Tracking  
 **Classification:** Internal - Restricted  
 **Systems Covered:** NP-001 Credit Scoring Engine · NP-002 Fraud Detection System  
 **Source:** Phase 2 AI Risk Assessment findings  
 **Owner:** AI Governance Programme Office  
-**Status:** 🟡 In Progress - Q2/Q3 2025 target  
+**Status:** 🟡 In Progress - Q2/Q3 2026 target  
 
 
 ---
@@ -40,7 +40,7 @@ The gaps by system:
 
 ---
 
-### CTRL-001 — Independent Bias Audit for NP-001
+### CTRL-001 - Independent Bias Audit for NP-001
 
 | Field | Detail |
 |---|---|
@@ -51,7 +51,7 @@ The gaps by system:
 | **Risk Addressed** | RISK-NP001-01 (Demographic bias - Critical) and RISK-NP001-03 (Historical training data bias - High) |
 | **Control Description** | Commission an independent third-party disparate impact audit of the Credit Scoring Engine across all relevant protected characteristics: race/ethnicity, gender, age and disability. The audit uses Article 10(5) exemption to access sensitive demographic data for bias detection purposes only. |
 | **Owner** | Head of Credit Risk |
-| **Target Completion** | Q2 2025 |
+| **Target Completion** | Q2 2026 |
 | **Estimated Cost** | £40,000 - £80,000 |
 | **Status** | 🟡 In Progress |
 
@@ -78,7 +78,7 @@ The gaps by system:
 
 ---
 
-### CTRL-002 — Explainability Layer for NP-001
+### CTRL-002 - Explainability Layer for NP-001
 
 | Field | Detail |
 |---|---|
@@ -89,7 +89,7 @@ The gaps by system:
 | **Risk Addressed** | RISK-NP001-02 (Lack of explainability for credit refusals - High) |
 | **Control Description** | Implement a SHAP (SHapley Additive exPlanations) post-hoc explainability layer on NP-001 model outputs. Develop customer-facing refusal communication templates presenting the top three contributing factors in plain language. Train customer service staff on communicating credit decision explanations. |
 | **Owner** | Head of Credit Risk |
-| **Target Completion** | Q2 2025 |
+| **Target Completion** | Q2 2026 |
 | **Estimated Cost** | £15,000 - £25,000 |
 | **Status** | 🟡 In Progress |
 
@@ -113,7 +113,7 @@ The gaps by system:
 
 ---
 
-### CTRL-003 — Governance Review Schedule Formalisation for NP-001
+### CTRL-003 - Governance Review Schedule Formalisation for NP-001
 
 | Field | Detail |
 |---|---|
@@ -123,7 +123,7 @@ The gaps by system:
 | **Regulatory Reference** | EU AI Act Article 9(1) - risk management system maintained on ongoing basis |
 | **Control Description** | Add NP-001 Article 9 risk management reviews to the AI Governance Committee calendar on a 6-monthly cycle. AGPO responsible for preparing review materials; Head of Credit Risk sign-off required. |
 | **Owner** | Chief Risk Officer |
-| **Target Completion** | Q2 2025 |
+| **Target Completion** | Q2 2026 |
 | **Estimated Cost** | Internal resource only |
 | **Status** | ✅ Complete |
 
@@ -134,7 +134,7 @@ The gaps by system:
 
 ---
 
-### CTRL-004 — Monitoring to Risk Register Feedback Loop for NP-001
+### CTRL-004 - Monitoring to Risk Register Feedback Loop for NP-001
 
 | Field | Detail |
 |---|---|
@@ -144,7 +144,7 @@ The gaps by system:
 | **Regulatory Reference** | EU AI Act Article 9(2)(c) - risk evaluation based on post-market monitoring data |
 | **Control Description** | Establish a formal process linking NP-001 performance monitoring data to the Phase 2 risk register. Define specific monitoring thresholds that trigger a mandatory risk register review when breached. |
 | **Owner** | Head of Credit Risk |
-| **Target Completion** | Q3 2025 |
+| **Target Completion** | Q3 2026 |
 | **Estimated Cost** | Internal resource only |
 | **Status** | 🔴 Not Started |
 
@@ -164,7 +164,7 @@ The gaps by system:
 
 ---
 
-### CTRL-005 — Fairness Metrics Definition for NP-001
+### CTRL-005 - Fairness Metrics Definition for NP-001
 
 | Field | Detail |
 |---|---|
@@ -174,7 +174,7 @@ The gaps by system:
 | **Regulatory Reference** | EU AI Act Article 9(5) - testing against preliminarily defined metrics |
 | **Control Description** | Define quantitative fairness metrics and acceptable thresholds for NP-001 - specifically demographic parity ratio and equalised odds difference across all protected characteristic groups. |
 | **Owner** | Head of Credit Risk |
-| **Target Completion** | Q2 2025 |
+| **Target Completion** | Q2 2026 |
 | **Estimated Cost** | Internal resource only |
 | **Status** | 🟡 In Progress |
 
@@ -194,7 +194,7 @@ The gaps by system:
 
 ---
 
-### CTRL-006 — Robustness Testing Schedule for NP-002
+### CTRL-006 - Robustness Testing Schedule for NP-002
 
 | Field | Detail |
 |---|---|
@@ -204,7 +204,7 @@ The gaps by system:
 | **Regulatory Reference** | EU AI Act Article 15 - accuracy, robustness and cybersecurity |
 | **Control Description** | Define and document a formal robustness testing schedule for NP-002, including pass/fail criteria, testing methodology and escalation process if tests fail. |
 | **Owner** | Head of Financial Crime |
-| **Target Completion** | Q2 2025 |
+| **Target Completion** | Q2 2026 |
 | **Estimated Cost** | Internal resource only |
 | **Status** | 🟡 In Progress |
 
@@ -224,7 +224,7 @@ The gaps by system:
 
 ---
 
-### CTRL-007 — False Positive SLA for NP-002
+### CTRL-007 - False Positive SLA for NP-002
 
 | Field | Detail |
 |---|---|
@@ -234,7 +234,7 @@ The gaps by system:
 | **Regulatory Reference** | FCA Consumer Duty - avoid foreseeable harm; EU AI Act Article 9 |
 | **Control Description** | Define and operationalise a false positive rate SLA for NP-002. Implement automated monitoring against the SLA with monthly reporting to the AI Governance Committee and a customer dispute resolution pathway. |
 | **Owner** | Head of Financial Crime |
-| **Target Completion** | Q2 2025 |
+| **Target Completion** | Q2 2026 |
 | **Estimated Cost** | £5,000 - £10,000 |
 | **Status** | ✅ Complete |
 
@@ -250,13 +250,13 @@ The gaps by system:
 
 | Control | System | Gap Severity | Owner | Target | Status |
 |---|---|---|---|---|---|
-| CTRL-001 Bias audit | NP-001 | 🔴 Non-Compliant | Head of Credit Risk | Q2 2025 | 🟡 In Progress |
-| CTRL-002 Explainability layer | NP-001 | 🔴 Non-Compliant | Head of Credit Risk | Q2 2025 | 🟡 In Progress |
-| CTRL-003 Review schedule | NP-001 | 🟡 Partial | CRO | Q2 2025 | ✅ Complete |
-| CTRL-004 Monitoring feedback loop | NP-001 | 🟡 Partial | Head of Credit Risk | Q3 2025 | 🔴 Not Started |
-| CTRL-005 Fairness metrics | NP-001 | 🟡 Partial | Head of Credit Risk | Q2 2025 | 🟡 In Progress |
-| CTRL-006 Robustness testing | NP-002 | 🟡 Partial | Head of Financial Crime | Q2 2025 | 🟡 In Progress |
-| CTRL-007 False positive SLA | NP-002 | 🟡 Partial | Head of Financial Crime | Q2 2025 | ✅ Complete |
+| CTRL-001 Bias audit | NP-001 | 🔴 Non-Compliant | Head of Credit Risk | Q2 2026 | 🟡 In Progress |
+| CTRL-002 Explainability layer | NP-001 | 🔴 Non-Compliant | Head of Credit Risk | Q2 2026 | 🟡 In Progress |
+| CTRL-003 Review schedule | NP-001 | 🟡 Partial | CRO | Q2 2026 | ✅ Complete |
+| CTRL-004 Monitoring feedback loop | NP-001 | 🟡 Partial | Head of Credit Risk | Q3 2026 | 🔴 Not Started |
+| CTRL-005 Fairness metrics | NP-001 | 🟡 Partial | Head of Credit Risk | Q2 2026 | 🟡 In Progress |
+| CTRL-006 Robustness testing | NP-002 | 🟡 Partial | Head of Financial Crime | Q2 2026 | 🟡 In Progress |
+| CTRL-007 False positive SLA | NP-002 | 🟡 Partial | Head of Financial Crime | Q2 2026 | ✅ Complete |
 
 **Overall status:** 2 of 7 controls complete · 4 in progress · 1 not started
 
